@@ -1,6 +1,7 @@
 using System;
+using korsback.dotnet.extensions.interfaces;
 
-namespace korsback.dotnet.extensions
+namespace korsback.dotnet.extensions.models
 {
     public abstract class Entity : IEntity, IDate<DateTime>
     {

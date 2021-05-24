@@ -1,6 +1,6 @@
 using System;
 
-namespace korsback.dotnet.extensions
+namespace korsback.dotnet.extensions.interfaces
 {
     public interface IUserId
     {

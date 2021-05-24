@@ -1,6 +1,6 @@
 using System.Net;
 
-namespace korsback.dotnet.extensions
+namespace korsback.dotnet.extensions.models
 {
     public interface IResult
     {

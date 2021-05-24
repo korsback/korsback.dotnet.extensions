@@ -15,8 +15,8 @@
     <Copyright>2021</Copyright>
     <PackageProjectUrl>https://github.com/korsback/</PackageProjectUrl>
     <PackageTags>Extensions</PackageTags>
-    <PackageReleaseNotes>Initial release</PackageReleaseNotes>
-    <Version>0.0.0.1</Version>
+    <PackageReleaseNotes>Update namespaces</PackageReleaseNotes>
+    <Version>0.0.0.2</Version>
     <Authors>Oskar K</Authors>
     <Company />
   </PropertyGroup>

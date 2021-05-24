@@ -1,4 +1,4 @@
-namespace korsback.dotnet.extensions
+namespace korsback.dotnet.extensions.interfaces
 {
     public interface IUpdatedDate<TDateTime>
     {
