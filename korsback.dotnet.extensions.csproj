@@ -17,7 +17,7 @@
     <RepositoryUrl>https://github.com/korsback/korsback.dotnet.extensions</RepositoryUrl>
     <PackageTags>Extensions</PackageTags>
     <PackageReleaseNotes>Update namespaces</PackageReleaseNotes>
-    <Version>0.0.0.3</Version>
+    <Version>0.0.1.0</Version>
     <Authors>Oskar K</Authors>
     <Company />
   </PropertyGroup>
