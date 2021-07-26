@@ -16,7 +16,7 @@
     <PackageProjectUrl>https://github.com/korsback/</PackageProjectUrl>
     <PackageTags>Extensions</PackageTags>
     <PackageReleaseNotes>Update namespaces</PackageReleaseNotes>
-    <Version>0.0.0.2</Version>
+    <Version>0.0.0.3</Version>
     <Authors>Oskar K</Authors>
     <Company />
   </PropertyGroup>
