@@ -14,6 +14,7 @@
     <Description>Package to provide some nice to have extensions to use when developing with .NET. Code that otherwize has to be written over and over again for each project.</Description>
     <Copyright>2021</Copyright>
     <PackageProjectUrl>https://github.com/korsback/</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/korsback/korsback.dotnet.extensions</RepositoryUrl>
     <PackageTags>Extensions</PackageTags>
     <PackageReleaseNotes>Update namespaces</PackageReleaseNotes>
     <Version>0.0.0.3</Version>
