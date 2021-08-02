@@ -3,7 +3,7 @@ using Newtonsoft.Json;
 
 namespace korsback.dotnet.extensions.models
 {
-    public class EntityResult<T> : IResult, IEntityResult<T> where T : class, new()
+    public class EntityResult<T> : IResult, IEntityResult<T>
     {
         public EntityResult()
         {
