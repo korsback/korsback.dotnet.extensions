@@ -1,0 +1,15 @@
+warning: LF will be replaced by CRLF in korsback.dotnet.extensions.csproj.
+The file will have its original line endings in your working directory
+[1mdiff --git a/korsback.dotnet.extensions.csproj b/korsback.dotnet.extensions.csproj[m
+[1mindex dc006e4..0a9e380 100644[m
+[1m--- a/korsback.dotnet.extensions.csproj[m
+[1m+++ b/korsback.dotnet.extensions.csproj[m
+[36m@@ -17,7 +17,7 @@[m
+     <RepositoryUrl>https://github.com/korsback/korsback.dotnet.extensions</RepositoryUrl>[m
+     <PackageTags>Extensions</PackageTags>[m
+     <PackageReleaseNotes>Update namespaces</PackageReleaseNotes>[m
+[31m-    <Version>0.0.1.0</Version>[m
+[32m+[m[32m    <Version>0.1.1</Version>[m
+     <Authors>Oskar K</Authors>[m
+     <Company />[m
+   </PropertyGroup>[m
